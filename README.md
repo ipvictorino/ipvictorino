@@ -1,7 +1,9 @@
 ## Hello, I'm Inês! 👋
 💻 Data Scientist
 
-🏠 Portugal, Copenhagen
+🏠 Portugal
+
+📌 Copenhagen
 
 
 
