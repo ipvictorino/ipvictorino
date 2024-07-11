@@ -3,8 +3,6 @@
 
 🏠 Portugal, Lisbon
 
-📌 Denmark, Copenhagen
-
 
 
 ### You can find me LinkedIn
