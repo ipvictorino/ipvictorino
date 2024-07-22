@@ -1,8 +1,6 @@
 ## Hello, I'm Inês! 👋
 💻 Data Scientist
 
-🏠 Portugal, Lisbon
-
 
 
 ### You can find me LinkedIn
